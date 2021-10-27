@@ -1,0 +1,47 @@
+table{
+	background-color:white;
+	width:150%;
+	height:100%;
+}
+table tr th {
+	background-color:black;
+	color:white;
+}
+*{
+	padding:0px;
+	margin:0px;
+}
+.First{
+	background-color:black;
+	width:100%;
+	height:120px;
+	text-align:center;
+	color:white;
+	font-size:50px;
+	border:4px solid white;
+	border-radius:25px 0;
+	text-shadow:10px 15px 10px red;
+	box-shadow:10px 15px 10px green;
+}
+.First:hover{
+	background-color:yellow;
+    border:4px solid black;	
+	color:black;	
+}
+.rollnumber{
+	position:absolute;
+	margin-left:600px;
+	font-size:24px;
+}
+.table1{
+	position:absolute;
+	margin-left:350px;
+}
+.box{
+	position:absolute;
+	margin-left:575px;
+}
+.bodycolor{
+	height:700px;
+	background: linear-gradient(to bottom left, #33ccff 0%, #ff99cc 100%);
+}
